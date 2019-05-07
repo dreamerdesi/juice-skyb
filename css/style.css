@@ -752,6 +752,11 @@ input {
     margin-bottom: 98px;
     max-height: 203px;
 }
+@media screen and (max-width: 1024px){
+    .juice .locations .selection-block ul li {
+        max-height: 165px;
+    }
+}
 .juice .locations .selection-block ul li span {
     top: 95px;
     letter-spacing: 2px;
