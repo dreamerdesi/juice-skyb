@@ -602,6 +602,14 @@ input {
     padding: 0 0 37px 100px;
     max-width: 400px;
 }
+@media screen and (min-width:421px) and (max-width: 1024px){
+    .juice .about-juice h2{
+        padding: 40px 0 37px 20px;
+    }
+    .juice .about-juice p {
+        padding: 0 0 27px 20px;
+    }
+}
 @media screen and (min-width:375px) and (max-width: 420px) {
     .juice .about-juice h2 {
         letter-spacing: 2px;
@@ -691,6 +699,13 @@ input {
     background-image: linear-gradient(to bottom right, #cfeffe ,#89beef);
     background: #86b2f0 url(images/cleanse-background.png) center no-repeat;
     min-height: 520px;
+}
+@media screen and (max-width: 420px){
+    .juice .cleanse {
+        background-size: cover;
+        padding: 0 0 40px 0;
+        background-position-x: 75%;
+    }
 }
 .juice .cleanse button {
     min-width: 235px;
