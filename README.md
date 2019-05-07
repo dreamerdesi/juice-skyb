@@ -7,7 +7,7 @@
 http://desarae-gabrielle.com/juice
 
 ## What I did
-- I used css + jquery to mock up the PSD in code. All css styles can be found in css/styles.css. 
+- I used css + jquery to mock up the PSD in code. All css styles can be found in css/style.css. 
 - Javascript can be found in js/all.js. jQuery was my JS of choice.
 
 ## What I finished
