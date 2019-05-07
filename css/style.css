@@ -516,7 +516,7 @@ input {
 @media screen and (max-width:1024px){
     .juice nav .mobile-menu {
         display: table-cell;
-        background: url(images/menu-icon.png) center no-repeat;
+        background: url("images/menu-icon.png") center no-repeat;
         background-size: 35px;
         width: 15%;
     }
@@ -576,7 +576,7 @@ input {
     float: right;
 }
 .juice .about-juice {
-    background: #6acad6 url(images/top-background.png) no-repeat center;
+    background: #53c5d1 url("images/top-background.png") no-repeat center;
     text-align: left;
     padding: 55px 0 80px 130px;
 }
